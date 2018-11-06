@@ -1,0 +1,7 @@
+{
+  "test": [
+    { "storeCode": 35, "quantity": [5, 2], "serviceId": [143, 144], "expectedSum": 990.00 },
+    { "storeCode": 35, "quantity": [2],    "serviceId": [144],      "expectedSum": 240.00 },
+    { "storeCode": 35, "quantity": [5],    "serviceId": [143],      "expectedSum": 750.00 }
+  ]
+}
