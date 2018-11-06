@@ -1,9 +1,8 @@
-# swagger-java-client
+# Service Configurator API tests
 
 ## Run tests
-```
-./gradlew clean test
-```
+1. Insert test data to `src\test\resources\UserChoiceConfigurationControllerApiTest.json`
+2. run `./gradlew clean test`
 
 ## Documentation for API Endpoints
 
